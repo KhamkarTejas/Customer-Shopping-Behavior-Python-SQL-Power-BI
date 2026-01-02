@@ -61,18 +61,12 @@ Key questions answered:
 Created a **two-page interactive dashboard**:
 
 #### 📊 Page 1: Sales & Customer Overview
-- Total Revenue
-- Category-wise Sales
-- Revenue by Season
-- Subscription vs Non-subscription Revenue
-- Most Used Payment Methods
+<img width="1035" height="586" alt="Page1" src="https://github.com/user-attachments/assets/7923ded8-1125-48bb-8976-fc7356bd902e" />
+
 
 #### 📊 Page 2: Customer Behavior & Product Insights
-- Top Products by Category
-- Average Review Ratings by Category
-- Impact of Discounts on Sales
-- Customer Segmentation
-- Repeat Purchase Patterns
+<img width="1037" height="588" alt="Page2" src="https://github.com/user-attachments/assets/1875241e-59d9-4d60-82fb-d1c52a5a51d6" />
+
 
 ---
 
